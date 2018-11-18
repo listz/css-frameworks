@@ -8,7 +8,7 @@
     {
       "name" : "Bootstrap",
       "description" : "The most popular HTML, CSS, and JS library in the world.",
-      "image" : "https://listz.github.io/media/bootstrap.svg",
+      "image" : "https://listz.github.io/css-frameworks/media/bootstrap.svg",
       "link" : "https://github.com/twbs/bootstrap",
       "tags" : [
         "css", "js", "javascript", "col", "html", "columns", "rows"
@@ -18,7 +18,7 @@
     {
       "name" : "Bulma",
       "description" : "a modern CSS framework based on Flexbox",
-      "image" : "https://listz.github.io/media/bulma.png",
+      "image" : "https://listz.github.io/css-frameworks/media/bulma.png",
       "link" : "https://github.com/jgthms/bulma",
       "tags" : [
         "flex", "flexbox", "javascript", "col", "html", "columns", "rows"
